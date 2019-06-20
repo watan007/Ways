@@ -1,0 +1,2 @@
+# Ways
+My new repository
